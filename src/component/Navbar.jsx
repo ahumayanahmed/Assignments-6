@@ -3,7 +3,7 @@ import Cart from './cord/Cart';
 
 const Navbar = ({carts}) => {
   return (
-    <div className="bg-base-200 shadow-sm ">
+    <div className="bg-gray-200 shadow-sm ">
       <div className="flex justify-between items-center py-4 px-6">
 
         {/* Logo */}

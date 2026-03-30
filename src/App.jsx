@@ -4,6 +4,7 @@ import Model from './component/cord/Model'
 import Hero from './component/hero/Hero'
 import Navbar from './component/Navbar'
 import Cart from './component/cord/Cart'
+import StepsSection from './component/stepsection/Stepcestion'
 const productlist= async()=>{
   const res=await fetch('/products.json')
   return res.json()
@@ -17,7 +18,7 @@ function App() {
   return (
     <div className='w-[95%] mx-auto'>
     <Navbar carts={carts} setcarts={setcarts}/>
-    {/* <Hero/>
+    <Hero/>
 <div className=' mt-10 text-center space-y-3 bg-base-200'>
     <h1 className='text-2xl font-bold' >Premium Digital Tools</h1>
             <p className='font-semibold'>Choose from our curated collection of premium digital products designed to boost your productivity and creativity.</p>
@@ -29,7 +30,8 @@ function App() {
 </div>
 
     {active==="Products"&& <Model product={product} carts={carts} setcarts={setcarts} />}
-    {active==="Cart"&& <Cart carts={carts} setcarts={setcarts}/>} */}
+    {active==="Cart"&& <Cart carts={carts} setcarts={setcarts}/>}
+    <StepsSection/>
     </div>
   )
 }
