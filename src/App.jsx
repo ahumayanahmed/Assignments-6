@@ -6,6 +6,7 @@ import Navbar from './component/Navbar'
 import Cart from './component/cord/Cart'
 import StepsSection from './component/stepsection/Stepcestion'
 import Pricing from './component/price_section/Pricing'
+import Footer from './component/footer/Footer'
 const productlist= async()=>{
   const res=await fetch('/products.json')
   return res.json()
@@ -33,7 +34,8 @@ function App() {
     {active==="Products"&& <Model product={product} carts={carts} setcarts={setcarts} />}
     {active==="Cart"&& <Cart carts={carts} setcarts={setcarts}/>}
     <StepsSection/>
-    <Pricing/>
+    <Pricing/> 
+     <Footer/>
     </div>
   )
 }
