@@ -39,7 +39,7 @@ const Hero = () => {
           {/* Buttons */}
           <div className="flex gap-4">
 
-            {/* Gradient Button */}
+            
            {/* Gradient Button */}
 <button className="text-white px-6 py-3 rounded-full 
 bg-gradient-to-r from-[#4F39F6] to-[#9514FA] 
