@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "icon": "products/design-tool.png",
+    "features": ["Unlimited AI generations", "50+ writing templates", "Grammar checker"]
+  },
+  {
+    "id": 2,
+    "name": "Resume Builder",
+    "description": "Create professional resumes with modern templates.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "icon": "products/design-tool.png",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"]
+  },
+  {
+    "id": 3,
+    "name": "SEO Booster",
+    "description": "Optimize your content for search engines easily.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "icon": "products/design-tool.png",
+    "features": ["Keyword analysis", "SEO suggestions", "Competitor tracking"]
+  },
+  {
+    "id": 4,
+    "name": "Social Media Kit",
+    "description": "Create engaging social media posts instantly.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "icon": "products/design-tool.png",
+    "features": ["Post templates", "Hashtag generator", "Auto scheduling"]
+  },
+  {
+    "id": 5,
+    "name": "Email Marketing Pro",
+    "description": "Design and send high-converting emails.",
+    "price": 35,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "icon": "products/design-tool.png",
+    "features": ["Email templates", "Automation", "Analytics"]
+  },
+  {
+    "id": 6,
+    "name": "Logo Generator",
+    "description": "Create stunning logos in seconds.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "icon": "products/design-tool.png",
+    "features": ["AI logo design", "High-res export", "Editable files"]
+  },
+  {
+    "id": 7,
+    "name": "Video Editor AI",
+    "description": "Edit videos with AI-powered tools.",
+    "price": 59,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "icon": "products/design-tool.png",
+    "features": ["Auto editing", "Templates", "HD export"]
+  },
+  {
+    "id": 8,
+    "name": "Chatbot Builder",
+    "description": "Create smart chatbots for your business.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "icon": "products/design-tool.png",
+    "features": ["Drag & drop builder", "AI responses", "Multi-platform"]
+  },
+  {
+    "id": 9,
+    "name": "Website Builder",
+    "description": "Build websites without coding.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "icon": "products/design-tool.png",
+    "features": ["Drag & drop", "Hosting included", "SEO ready"]
+  },
+  {
+    "id": 10,
+    "name": "Analytics Pro",
+    "description": "Track and analyze your data efficiently.",
+    "price": 45,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "icon": "products/design-tool.png",
+    "features": ["Real-time data", "Reports", "Dashboard"]
+  }
+]
