@@ -7,6 +7,7 @@ import Cart from './component/cord/Cart'
 import StepsSection from './component/stepsection/Stepcestion'
 import Pricing from './component/price_section/Pricing'
 import Footer from './component/footer/Footer'
+import Optional from './component/optional/Optional'
 const productlist= async()=>{
   const res=await fetch('/products.json')
   return res.json()
@@ -18,7 +19,7 @@ function App() {
   const [carts ,setcarts]=useState([])
   
   return (
-    <div className='w-[95%] mx-auto'>
+    <div className='w-[95%] sm:w-full mx-auto'>
     <Navbar carts={carts} setcarts={setcarts}/>
     <Hero/>
 <div className='py-16 mt-10 text-center space-y-3 bg-base-200'>
@@ -35,6 +36,7 @@ function App() {
     {active==="Cart"&& <Cart carts={carts} setcarts={setcarts}/>}
     <StepsSection/>
     <Pricing/> 
+    <Optional/>
      <Footer/>
     </div>
   )
