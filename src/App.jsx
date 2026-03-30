@@ -15,7 +15,7 @@ const productlist= async()=>{
 const product=productlist()
 function App() {
   const [active,setactive]=useState("Products")
-  console.log(active)
+  
   const [carts ,setcarts]=useState([])
   
   return (

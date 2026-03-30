@@ -7,7 +7,7 @@
     "period": "monthly",
     "tag": "Best Seller",
     "tagType": "best-seller",
-    "icon": "products/design-tool.png",
+    "icon": "/public/icon/creative-writing.png",
     "features": ["Unlimited AI generations", "50+ writing templates", "Grammar checker"]
   },
   {
@@ -18,7 +18,7 @@
     "period": "monthly",
     "tag": "Popular",
     "tagType": "popular",
-    "icon": "products/design-tool.png",
+    "icon": "/public/icon/human-resources.png",
     "features": ["100+ templates", "ATS optimization", "Export to PDF"]
   },
   {
@@ -29,7 +29,7 @@
     "period": "monthly",
     "tag": "New",
     "tagType": "new",
-    "icon": "products/design-tool.png",
+    "icon": "/public/icon/seo-search-symbol.png",
     "features": ["Keyword analysis", "SEO suggestions", "Competitor tracking"]
   },
   {
@@ -40,7 +40,7 @@
     "period": "monthly",
     "tag": "Popular",
     "tagType": "popular",
-    "icon": "products/design-tool.png",
+    "icon": "/public/icon/social-media.png",
     "features": ["Post templates", "Hashtag generator", "Auto scheduling"]
   },
   {
@@ -51,7 +51,7 @@
     "period": "monthly",
     "tag": "Best Seller",
     "tagType": "best-seller",
-    "icon": "products/design-tool.png",
+    "icon": "/public/icon/hand.png",
     "features": ["Email templates", "Automation", "Analytics"]
   },
   {
@@ -62,7 +62,7 @@
     "period": "one-time",
     "tag": "New",
     "tagType": "new",
-    "icon": "products/design-tool.png",
+    "icon": "/public/icon/photoshop.png",
     "features": ["AI logo design", "High-res export", "Editable files"]
   },
   {
@@ -73,7 +73,7 @@
     "period": "monthly",
     "tag": "Popular",
     "tagType": "popular",
-    "icon": "products/design-tool.png",
+    "icon": "/public/icon/video-editor.png",
     "features": ["Auto editing", "Templates", "HD export"]
   },
   {
@@ -84,7 +84,7 @@
     "period": "monthly",
     "tag": "Best Seller",
     "tagType": "best-seller",
-    "icon": "products/design-tool.png",
+    "icon": "/public/icon/chatbot.png",
     "features": ["Drag & drop builder", "AI responses", "Multi-platform"]
   },
   {
@@ -95,7 +95,7 @@
     "period": "yearly",
     "tag": "Popular",
     "tagType": "popular",
-    "icon": "products/design-tool.png",
+    "icon": "/public/icon/domain.png",
     "features": ["Drag & drop", "Hosting included", "SEO ready"]
   },
   {
@@ -106,7 +106,7 @@
     "period": "monthly",
     "tag": "New",
     "tagType": "new",
-    "icon": "products/design-tool.png",
+    "icon": "/public/icon/data.png",
     "features": ["Real-time data", "Reports", "Dashboard"]
   }
 ]

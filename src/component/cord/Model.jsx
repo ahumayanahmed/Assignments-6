@@ -3,7 +3,7 @@ import Modelcart from './Modelcart';
 
 const Model = ({product,carts,setcarts}) => {
     const productCatch= use(product)
-    console.log(productCatch)
+    
     
     
     return (
